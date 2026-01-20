@@ -1,0 +1,1 @@
+This project is a Streamlit-based Image Caption Generator that allows users to upload an image and automatically generate a descriptive caption using a deep learning model. The generated caption is also converted into speech using text-to-speech technology, enabling both visual and audio output for better accessibility.
